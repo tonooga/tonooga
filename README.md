@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small projects to put in practice my knowledge in fullstack development as well as Python for Data Science.
 - 📘 My progress in my self-training in Data Science includes: basic knowledge of Python, SQL, Machine Learning, R, HTML, CSS, Javascript, NodeJS. Also overall knowledge of AI and  Machine Learning. 
 - 🎯 My inmediate focus is consolidating experience in the above softwares and concepts applied in real world projects.
-- 💎 My value proposition for any potencial collaboration is to offer my 20 yrs experience in a Technology Company and Business Development, Sales & Commercial, Marketing as well as Project Management.
+- 💎 My value proposition for any potencial collaboration is to offer my 20 yrs experience in a Technology Company and Business Development, Sales & Commercial, Marketing as well as Project Management. Also, I can make use of my professional network to promote any added value project.
 - 📫 Drop me a note here or to my email tono.oga@gmail.com
 
 <!---
