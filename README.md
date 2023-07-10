@@ -5,7 +5,7 @@
 - My formal education includes a degree in Mechanical Engineering, an MBA, and a MSc in Data Analytics.
 
 - 👀 I’m interested in meeting professionals in Energy & Technology industry and any other Industry to interchange insights on applications of Data Science.
-- 🌱 I’m a constant self-learner of skills and tools used in Data Science.
+- 🌱 I’m a constant self-learner of skills and tools used in Data Science & Software Development.
 - 💞️ I’m looking to collaborate on projects where any aspect of Data Science can create value.
 - 📘 My formal & self-training include: Python, R, SAS, SQL, Machine Learning, Deep Learning, NLP, HTML, CSS, Javascript, NodeJS, Flutter & others.
 - 💎 My value proposition in any potential collaboration endevour is to offer my 20 yrs experience in a Technology Company and Business Development, Sales & Commercial, Marketing as well as Project Management. Also, I can make use of my professional network to promote the value of the project.
